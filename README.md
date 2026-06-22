@@ -1,4 +1,51 @@
-## Hi there 👋
+# Hi, I'm Meritxell Algueró 👋
+
+Junior game developer / C++ programmer focused on gameplay systems, VFX and interactive applications.
+
+## About me
+- C++ / C# developer
+- Interested in gameplay systems and role of technical artist
+- Experience with academic and team-based game projects
+- Currently finishing a masters degree and improving my portfolio through game projects
+
+## Contact
+LinkedIn: www.linkedin.com/in/meri-alguero  
+Instagram: https://www.instagram.com/meritxell.alguero/ 
+
+## Main technologies
+C++ · C# · HLSL · Visual Studio · ImGui · Git · GitHub · Unity 
+
+## Featured projects
+
+### Bound By Death
+Team game project with custom engine/game structure.
+Role:
+- Marketing lead (Managing web, posts, videos, etc)
+- Scripting of multiple game mechanincs
+- Programming the rework of the Particle System in the engine
+- Design of main characters mechanics
+- VFX lead (create, modify and check what particles are needed and if the Particle System, Trail system and others need to be actualized)
+- Link to blog: https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/ 
+- Add screenshots or gameplay video
+
+### Engine
+Custom C++ engine developed during the Master Advanced Programming for AAA Games at UPC.
+Features:
+- DirectX 12 rendering structure
+- Camera system inspired by Unity
+- ImGui debug interface
+- Phong shading
+- Model loading with TinyGLTF
+
+### Zork
+Console-based text adventure built in C++ using object-oriented programming.
+Features:
+- Room navigation
+- Inventory and bag system
+- Command parser
+- Win condition and item interactions
+
+
 
 <!--
 **MeriAlguero/MeriAlguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
