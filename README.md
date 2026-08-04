@@ -44,9 +44,9 @@ Team game project with custom engine/game structure.
 Role:
 - Marketing lead (Managing web, posts, videos, etc)
 - Scripting of multiple game mechanincs
+- VFX lead (create, modify and check what particles are needed and if the Particle System, Trail system and others need to be actualized)
 - Programming the rework of the Particle System in the engine
 - Design of main characters mechanics
-- VFX lead (create, modify and check what particles are needed and if the Particle System, Trail system and others need to be actualized)
 - Link to blog: https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/ 
 - Add screenshots or gameplay video
 
