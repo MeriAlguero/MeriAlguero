@@ -35,7 +35,7 @@ LinkedIn: www.linkedin.com/in/meri-alguero
 Instagram: https://www.instagram.com/meritxell.alguero/ 
 
 ## Main technologies
-C++ · C# · HLSL · Visual Studio · ImGui · Git · GitHub · Unity 
+C++ · C# · Unity · Git · GitHub · Visual Studio · ImGui · HLSL
 
 ## Featured projects
 
