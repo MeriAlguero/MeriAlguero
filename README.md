@@ -1,6 +1,6 @@
 # Hi, I'm Meritxell Algueró 👋
 
-Junior game developer / C++ programmer focused on gameplay systems, VFX and interactive applications.
+Junior game developer / C# and C++ programmer focused on gameplay systems, VFX and interactive applications
 
 <p align="left">
   <a href="https://github.com/MeriAlguero" target="_blank">
@@ -44,8 +44,8 @@ Team game project with custom engine/game structure.
 Role:
 - Marketing lead (Managing web, posts, videos, etc)
 - Scripting of multiple game mechanincs
-- VFX lead (create, modify and check what particles are needed and if the Particle System, Trail system and others need to be actualized)
 - Programming the rework of the Particle System in the engine
+- VFX lead (create, modify and check what particles are needed and if the Particle System, Trail system and others need to be actualized)
 - Design of main characters mechanics
 - Link to blog: https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/ 
 - Add screenshots or gameplay video
