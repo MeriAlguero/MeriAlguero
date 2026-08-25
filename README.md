@@ -51,7 +51,7 @@ Currently expanding my portfolio through team projects, game jams, custom engine
 
 ### Programming
 
-`C++` · `C#` · `HLSL`
+ `C#` · `C++` 
 
 ### Game Development
 
@@ -59,15 +59,11 @@ Currently expanding my portfolio through team projects, game jams, custom engine
 
 ### Graphics & Technical Art
 
-`VFX` · `Particle Systems` · `Shaders` · `HLSL` · `Technical Art`
+`VFX` · `Particle Systems` · `Technical Art`
 
 ### Tools
 
 `Git` · `GitHub` · `Visual Studio` · `ImGui`
-
-### Engine / Graphics
-
-`DirectX 12` · `TinyGLTF`
 
 ---
 
@@ -237,12 +233,9 @@ The project focuses on software architecture, object interaction and command-bas
 I'm especially interested in roles related to:
 
 * Gameplay Programming
-* C++ Game Development
 * C# / Unity Development
 * Technical Art
 * VFX Programming
-* Graphics Programming
-* Game Engine Development
 * Tools Programming
 
 ---
