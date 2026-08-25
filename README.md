@@ -79,6 +79,11 @@ Currently expanding my portfolio through team projects, game jams, custom engine
 
 The project was developed under a strict game jam deadline and combines fast-paced combat with a blood-based health system where the player continuously loses health and must defeat enemies to survive.
 
+### Play the Game
+
+[**Play Duckula: Bloodbound on Itch.io**](https://noemifar.itch.io/duckula-bloodbound)
+You can download the game or play from the browser. Enjoy!
+
 ### Role
 
 **Lead Developer · Programmer · Level Designer**
