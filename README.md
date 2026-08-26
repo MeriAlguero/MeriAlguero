@@ -106,7 +106,8 @@ DuckDuckClub was founded by **Meritxell Algueró** and **Iago Prieto**, working 
 
 ### Repository
 
-[CuackCuackClub-Duckula:Bloodbound]()
+[CuackCuackClub-Duckula:Bloodbound](https://github.com/CuackCuackClub/Mini-Jame-Gam-58)
+
 ---
 
 ## Bound By Death
@@ -158,12 +159,14 @@ The project allowed me to work across both gameplay programming and technical ar
 [My blog post: Meritxell Algueró — Ravenwhisp](https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/)
 
 ### Repository
-[Ravenwhisp Studios]()
+[Ravenwhisp Studios](https://github.com/Ravenwhisp)
+
+
 ---
 
-## GameJam26
+## AltusImpaktum
 
-**GameJam26** is a game jam project developed as part of a short, time-limited team challenge.
+**AltusImpaktum** is a game jam project developed as part of a short, time-limited team challenge. It was part of the Game Jam 2026 of [Òrbita25](https://www.linkedin.com/company/òrbita25/). 
 
 It represents my experience working under pressure, collaborating with other developers and creating a playable prototype within a restricted development period.
 
