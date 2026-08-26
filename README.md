@@ -98,7 +98,7 @@ You can download the game or play from the browser. Enjoy!
 
 ### Technologies
 
-`Unity 6000.1f` • `Github` • `Visual Studio`
+`Unity 6000.1f` • `Github` • `Visual Studio` • `LibreSprite` 
 
 ### Team
 
@@ -193,7 +193,7 @@ It represents my experience working under pressure, collaborating with other dev
 
 ### Technologies 
 
-`Unity` • `Git/Github` • `PixelSprite`
+`Unity` • `Git/Github` • `Asesprite`
 
 ### Repository
 
