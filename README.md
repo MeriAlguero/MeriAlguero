@@ -1,12 +1,12 @@
 # Hi, I'm Meritxell Algueró 👋
 
-**Game Developer | C++ & C# Programmer | Gameplay Systems | Technical Art & VFX**
+**Game Developer | C# & C++ Programmer | Gameplay Systems | Technical Art & VFX**
 
 I'm a game developer focused on **gameplay programming, technical art, VFX, and interactive systems**.
 
-I enjoy working at the intersection between **programming and visual development**, building gameplay mechanics, tools, particle systems, shaders, and systems that help bring games to life.
+I enjoy working at the intersection between **programming and visual development**, building gameplay mechanics, tools, particle systems, and systems that help bring games to life.
 
-Currently expanding my portfolio through team projects, game jams, custom engine development, and Unity projects.
+Currently expanding my portfolio through team projects, game jams, and Unity projects.
 
 <p align="left">
   <a href="https://github.com/MeriAlguero" target="_blank">
@@ -34,13 +34,13 @@ Currently expanding my portfolio through team projects, game jams, custom engine
 
 ## About Me
 
-* Game developer specialized in **C++ and C#**
+* Game developer specialized in **C# and C++**
 * Interested in **Gameplay Programming, Technical Art and VFX**
 * Experience developing games with **Unity**
 * Experience working with **custom C++ game engines**
 * Experience implementing gameplay mechanics, animation systems and visual effects
 * Comfortable working in multidisciplinary development teams
-* Experience with **Git and GitHub collaborative workflows**
+* Experience with **Git, GitHub and PlaticCM collaborative workflows**
 * Experience working under strict deadlines through game jams
 * Currently finishing a **Master's degree in Advanced Programming for AAA Games**
 * Continuously developing personal and team projects to improve my technical portfolio
@@ -91,15 +91,22 @@ You can download the game or play from the browser. Enjoy!
 * Level design
 * Gameplay balancing
 * Integration of game systems in Unity
-* Collaboration with programmers, artists and designers
+* Collaboration with programmers and artists
 * Development and iteration under a game jam deadline
 * Testing and bug fixing
 * Project organization and development coordination
+
+### Technologies
+
+`Unity 6000.1f` • `Github` • `Visual Studio`
 
 ### Team
 
 DuckDuckClub was founded by **Meritxell Algueró** and **Iago Prieto**, working together on game development projects and game jams.
 
+### Repository
+
+[CuackCuackClub-Duckula:Bloodbound]()
 ---
 
 ## Bound By Death
@@ -131,8 +138,8 @@ The project allowed me to work across both gameplay programming and technical ar
 
 #### Engine Development
 
-* Programmed a **rework of the engine's Particle System**
-* Worked with particle and trail systems
+* Programmed a **rework of the engine's Particle System** before jumping on the VFX implementation
+* Worked with particle systems
 * Helped identify technical improvements required by the VFX pipeline
 
 #### Marketing
@@ -142,10 +149,16 @@ The project allowed me to work across both gameplay programming and technical ar
 * Created and coordinated posts and promotional material
 * Worked with gameplay videos and project presentation
 
+### Technologies
+
+`DirectX 12` • `GLtf` • `C++` • `Visual Studio`
+
 ### Project Blog
 
-[Meet Meritxell Algueró — Ravenwhisp](https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/)
+[My blog post: Meritxell Algueró — Ravenwhisp](https://ravenwhisp.github.io/Ravenwhisp/about-us/team/meritxell-alguero/)
 
+### Repository
+[Ravenwhisp Studios]()
 ---
 
 ## GameJam26
@@ -178,31 +191,13 @@ It represents my experience working under pressure, collaborating with other dev
 * Integrated gameplay and animation behavior
 * Debugged and fixed gameplay issues
 
+### Technologies 
+
+`Unity` • `Git/Github` • `PixelSprite`
+
 ### Repository
 
 [GameJam26](https://github.com/IagoPL/GameJam26)
-
----
-
-## Custom C++ Engine
-
-Custom game engine developed during the **Master's Degree in Advanced Programming for AAA Games at UPC**.
-
-The project focuses on understanding the internal architecture and technology behind modern game engines.
-
-### Features
-
-* DirectX 12 rendering architecture
-* Camera system inspired by Unity
-* ImGui debugging interface
-* Phong shading
-* 3D model loading using TinyGLTF
-* Engine-side rendering systems
-* Custom tools and debugging functionality
-
-### Technologies
-
-`C++` · `DirectX 12` · `ImGui` · `TinyGLTF`
 
 ---
 
@@ -217,14 +212,14 @@ The project focuses on software architecture, object interaction and command-bas
 * Room navigation system
 * Inventory system
 * Bag/container system
-* Command parser
+* Command pars
 * Item interactions
 * Win conditions
 * Object-oriented game architecture
 
 ### Technologies
 
-`C++` · `OOP`
+`C++` • `Github`
 
 ---
 
@@ -234,6 +229,7 @@ I'm especially interested in roles related to:
 
 * Gameplay Programming
 * C# / Unity Development
+* Systems programming
 * Technical Art
 * VFX Programming
 * Tools Programming
