@@ -69,47 +69,6 @@ Currently expanding my portfolio through team projects, game jams, and Unity pro
 
 # Featured Projects
 
-## 🦆 Duckula: Bloodbound
-
-**Duckula: Bloodbound** is a 2D action game developed for **Mini Jame Gam #58** by **DuckDuckClub**.
-
-The project was developed under a strict game jam deadline and combines fast-paced combat with a blood-based health system where the player continuously loses health and must defeat enemies to survive.
-
-### Play the Game
-
-[**Play Duckula: Bloodbound on Itch.io**](https://noemifar.itch.io/duckula-bloodbound)
-You can download the game or play from the browser. Enjoy!
-
-### Role
-
-**Lead Developer · Programmer · Level Designer**
-
-### Contributions
-
-* Gameplay programming
-* Player systems and mechanics
-* Level design
-* Gameplay balancing
-* Integration of game systems in Unity
-* Collaboration with programmers and artists
-* Development and iteration under a game jam deadline
-* Testing and bug fixing
-* Project organization and development coordination
-
-### Technologies
-
-`Unity 6000.1f` • `Github` • `Visual Studio` • `LibreSprite` 
-
-### Team
-
-DuckDuckClub was founded by **Meritxell Algueró** and **Iago Prieto**, working together on game development projects and game jams.
-
-### Repository
-
-[CuackCuackClub-Duckula:Bloodbound](https://github.com/CuackCuackClub/Mini-Jame-Gam-58)
-
----
-
 ## Bound By Death
 
 **Bound By Death** is a team game project developed using a **custom C++ engine and game architecture**.
@@ -161,8 +120,44 @@ The project allowed me to work across both gameplay programming and technical ar
 ### Repository
 [Ravenwhisp Studios](https://github.com/Ravenwhisp)
 
+## 🦆 Duckula: Bloodbound
 
----
+**Duckula: Bloodbound** is a 2D action game developed for **Mini Jame Gam #58** by **DuckDuckClub**.
+
+The project was developed under a strict game jam deadline and combines fast-paced combat with a blood-based health system where the player continuously loses health and must defeat enemies to survive.
+
+### Play the Game
+
+[**Play Duckula: Bloodbound on Itch.io**](https://noemifar.itch.io/duckula-bloodbound)
+You can download the game or play from the browser. Enjoy!
+
+### Role
+
+**Lead Developer · Programmer · Level Designer**
+
+### Contributions
+
+* Gameplay programming
+* Player systems and mechanics
+* Level design
+* Gameplay balancing
+* Integration of game systems in Unity
+* Collaboration with programmers and artists
+* Development and iteration under a game jam deadline
+* Testing and bug fixing
+* Project organization and development coordination
+
+### Technologies
+
+`Unity 6000.1f` • `Github` • `Visual Studio` • `LibreSprite` 
+
+### Team
+
+DuckDuckClub was founded by **Meritxell Algueró** and **Iago Prieto**, working together on game development projects and game jams.
+
+### Repository
+
+[CuackCuackClub-Duckula:Bloodbound](https://github.com/CuackCuackClub/Mini-Jame-Gam-58)
 
 ## AltusImpaktum
 
@@ -201,28 +196,6 @@ It represents my experience working under pressure, collaborating with other dev
 ### Repository
 
 [GameJam26](https://github.com/IagoPL/GameJam26)
-
----
-
-## Zork
-
-Console-based text adventure developed in **C++** using object-oriented programming.
-
-The project focuses on software architecture, object interaction and command-based gameplay systems.
-
-### Features
-
-* Room navigation system
-* Inventory system
-* Bag/container system
-* Command pars
-* Item interactions
-* Win conditions
-* Object-oriented game architecture
-
-### Technologies
-
-`C++` • `Github`
 
 ---
 
