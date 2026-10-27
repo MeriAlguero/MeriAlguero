@@ -195,7 +195,7 @@ It represents my experience working under pressure, collaborating with other dev
 
 ### Repository
 
-[GameJam26](https://github.com/IagoPL/GameJam26)
+[GameJam26](https://github.com/IagoPL/GameJam26) or [GameJam26_DuckDuckClub](https://github.com/CuackCuackClub/Mini-Jame-Gam-58)
 
 ---
 
